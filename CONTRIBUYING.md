@@ -9,10 +9,6 @@ Nos gustaría que compartieras todos los recursos que conoces o encuentras en la
 ## Agregando a la lista
 Por favor asegurate que tú `pull request` cumpla los siguientes lineamientos:
 
-
-Search previous suggestions before making a new one, as yours may be a duplicate.
-Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
-
 - Crea un `pull request` individual por cada aporte.
 - Usa `title-casing` (AP style).
 - Usa el siguiente formato `[Nombre del Enlace](enlace)`.
